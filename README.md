@@ -22,5 +22,6 @@ gcc c4_main.c -o c4_main -lcurses
 Ball Sort Puzzle
 
 
+
 ![connect_four](./screenshots/connect_4.png)
 Connect four
