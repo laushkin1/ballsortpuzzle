@@ -18,7 +18,7 @@ gcc c4_main.c -o c4_main -lcurses
 ./c4_main
 ```
 
-![bullsortpuzzle](./screenshots/bullsortpuzzle.png)
+![ballsortpuzzle](./screenshots/ballsortpuzzle.png)
 
 ![connect_four](./screenshots/connect_4.png)
 
